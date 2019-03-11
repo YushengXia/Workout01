@@ -68,7 +68,7 @@ Both Curry and Thompson shoot respectable percentages from inside the arc, so ru
 As a result of our given analysis, we see that the Warriors are deadly both outside the arc and inside the arc. Well which one is more a threat? We can look at an illustration of all shot attempts and makes of the five players and visually compare the damage done. 
 
 ```{r out.width='80%', echo = FALSE, fig.align = 'center'}
-knitr::include_graphics("/Users/yusheng/Desktop/stat133/Workout01/images/gsw-shot-chart.png")
+knitr::include_graphics("https://github.com/YushengXia/Workout01/blob/master/images/gsw-shot-chart.png")
 ```
 
 Looking at the image, we see that Durant, Curry, and Thompson are threats from all over the floor and take quite a few midrange attempts. This doesn't hold true for Iguodala and Green, both of whom take most of their shots either at the three point line or right at the basket. If we're going off flexibility, it would seem that the Dubs are a higher threat inside the arc, as they have the threat of shooting (and seemingly making) quite a few midrange jumpers and can take it closer to the basket for a higher percentage shot. However, one thing illustrated by the graphics that makes me think differently is the shape of the players' three point attempt and makes. Durant, Curry, and Thompson are all taking shots farther away from the three point. This makes their three-point attempts much more dangerous than just a typical three-point shot, as the gravity of their threats from beyond the arc force defenders to stray further from the paint in order to guard them. This actually allows for role players in their offensive system like Iguodala and Green easier looks inside, where there is not less traffic and not as many defender bodies. 
